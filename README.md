@@ -1,2 +1,3 @@
 # Kali-linux-docs-beginner-tools-and-commands-imp-daily-commands-27-tools-
 This is a pdf file that is printable and it is made for beginners, who are lazy to find kali linux docs and usefull tools
+I have also mentioned commands here because nowadays finding commands for tools is hard, and a usefull ports table for nmap...
